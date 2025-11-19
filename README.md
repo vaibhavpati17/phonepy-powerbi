@@ -123,7 +123,7 @@ This dashboard helps businesses to:
 
 |PhonePe – All Transactions Dashboard | PhonePe Loan Analytics Dashboard |
 |--------------------|-------------------|
-| ![Overview](Images/Phone_Pay_All_Transactions.png) | ![Category](Images/PhonePay_Loan.png) |
+| ![Overview](images/All_Transaction_Dashboard.png) | ![Category](Images/PhonePay_Loan.png) |
 
 |PhonePe Recharge & Bills Analytics Dashboard | PhonePe Money Transfer Analytics Dashboard |PhonePe Insurance Analytics Dashboard |
 |---------------|----------------|-------------|
