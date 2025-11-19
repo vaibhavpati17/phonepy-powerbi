@@ -127,6 +127,6 @@ This dashboard helps businesses to:
 
 |PhonePe Recharge & Bills Analytics Dashboard | PhonePe Money Transfer Analytics Dashboard |PhonePe Insurance Analytics Dashboard |
 |---------------|----------------|-------------|
-| ![Users](Images/PhonePay_Rechargebills.png) | ![Trend](Images/PhonePay_Money_Transfer.png) | ![KPI](Images/Phone_Pay_Insurance_Analytics.png) |
+| ![Users](Images/PhonePay_Rechargebills.png) | ![Trend](Images/PhonePay_Money_Transfer.png) | ![KPI](images/Insurence_Dashboard.png) |
 
 
