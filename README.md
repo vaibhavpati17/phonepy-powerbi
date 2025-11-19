@@ -121,9 +121,9 @@ This dashboard helps businesses to:
 
 ## 📊 Dashboard Preview
 
-|PhonePe – All Transactions Dashboard | PhonePe Loan Analytics Dashboard |
+|PhonePe – All Transactions Dashboard | PhonePe - Loan Analytics Dashboard |
 |--------------------|-------------------|
-| ![Overview](images/All_Transaction_Dashboard.png) | ![Category](Images/PhonePay_Loan.png) |
+| ![Overview](images/All_Transaction_Dashboard.png) | ![Category](images/Loans_Dashboard.png) |
 
 |PhonePe Recharge & Bills Analytics Dashboard | PhonePe Money Transfer Analytics Dashboard |PhonePe Insurance Analytics Dashboard |
 |---------------|----------------|-------------|
